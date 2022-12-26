@@ -1,0 +1,18 @@
+async = it when the program is going on and you dont want to wait till that program is going to complete rather you ewant to move to another line of program  while the program is still getting executed .
+
+sync = it is when you to wait for the previous program to get executed completely and then move on to the next line of code .
+
+so to make our js asyn callbacks are used where it takes the function to other place where it is getting stored and we can move forward with the execution of our codes and can callback the previous function when we need it to get executed.
+
+
+
+promise take a call back function and  two parameters in it resolve and reject  if everything is fine we will invoke the resolve and if something goes wrong we will invoke reject
+
+what is .then take in as an argument?
+it takes in a function referrence
+
+async and await ?
+if we want afunction to await for we had to label it as async to use await inside the function
+
+
+promises are asynchronous
