@@ -1,8 +1,8 @@
 //creating a post
 
 const post = [
-    { name: 'himanshu', work: 'frontend-developer', createdpost: new Date().getTime() },
-    { name: 'suman', work: 'professional footballer', createdpost: new Date().getTime() }
+    { name: 'shubham', work: 'frontend-developer', createdpost: new Date().getTime() },
+    { name: 'yash', work: 'data-scientist', createdpost: new Date().getTime() }
 
 ]
 
