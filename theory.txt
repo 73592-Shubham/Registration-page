@@ -1,4 +1,4 @@
-async = it when the program is going on and you dont want to wait till that program is going to complete rather you ewant to move to another line of program  while the program is still getting executed .
+async = it is when the program is going on and you dont want to wait till that program is going to complete rather you want to move to another line of program  while the program is still getting executed .
 
 sync = it is when you to wait for the previous program to get executed completely and then move on to the next line of code .
 
